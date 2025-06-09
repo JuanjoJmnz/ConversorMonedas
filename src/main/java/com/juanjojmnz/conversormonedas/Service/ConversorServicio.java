@@ -37,7 +37,6 @@ public class ConversorServicio {
         put("PEN", "Sol Peruano");
         put("COP", "Peso Colombiano");
         put("VES", "Bolívar Venezolano");
-        // Puedes agregar más monedas según necesites
     }};
 
     public List<MonedaInfoDTO> obtenerMonedasDisponibles() {
