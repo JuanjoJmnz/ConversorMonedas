@@ -1,2 +1,5 @@
 api.key=AQUI_VA_TU_API_KEY
 api.base.url=https://ejemplo.com
+spring.datasource.url=jdbc:mysql://localhost:3306/[nombre_de_tu_BBDD]
+spring.datasource.username=[tu_usuario]
+spring.datasource.password=[tu_contraseña]
